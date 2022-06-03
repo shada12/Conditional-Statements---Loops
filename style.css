@@ -1,0 +1,44 @@
+html {
+
+    background-color: rgb(237, 245, 245);
+}
+
+.header {
+    background-image: url(img/thisOne.jpg);
+    background-size: cover;
+    border: 5px solid rgb(232, 246, 246);
+    /*background-color: rgb(23, 51, 105);*/
+    text-align: center;
+    height: 12rem;
+}
+
+h1 {
+    padding-top: 3rem;
+    color:  rgb(27, 82, 164);
+}
+
+.maindiv {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(125, 162, 218);
+    border: 0.5px solid rgb(64, 106, 231) ;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+h4,
+label,
+p,
+span {
+
+    color: rgb(11, 42, 88);
+}
+
+button:hover {
+
+    border-radius: 4px;
+    background-color: rgb(27, 82, 164);
+}
