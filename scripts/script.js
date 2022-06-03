@@ -32,10 +32,10 @@ function checkEvenOdd() {
 
     if (number % 2 == 0) {
         
-      document.getElementById("display").innerHTML = number +" is "+"even";
+      document.getElementById("display").innerHTML = number +" is "+"even number";
     
     } else {
 
-      document.getElementById("display").innerHTML = number +" is "+"odd";
+      document.getElementById("display").innerHTML = number +" is "+"odd number";
     }
 }
